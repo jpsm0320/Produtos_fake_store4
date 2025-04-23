@@ -1,0 +1,21 @@
+.product-image {
+    width: 80px;
+    height: auto;
+    border-radius: 5px;
+}
+.table-container {
+    margin-top: 20px;
+    border: 1px solid #5222aa;
+    border-radius: 5px;
+    overflow: hidden;
+    background-color: rgb(255, 255, 255);
+}
+ body {
+    background-color: rgb(123, 11, 197);
+ }
+ .text {
+    text-align: center;
+ }
+ .itens {
+    text-align: center;
+ }
